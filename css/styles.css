@@ -1,0 +1,28 @@
+#box {
+    font-family: 'Shadows Into Light';
+    width: 800px;
+    padding: 30px;
+    text-align: normal;
+    margin: auto;
+    background: url(../images/1.jpg);
+  }
+  body {
+     font-family: 'Rock Salt', cursive;
+     font-size: 50px;
+     width:px;
+     padding: px;
+     margin: auto;
+     background-size: contain;
+     align-self: center;
+     text-align: center;
+     
+     background: url(../images/pg3.jpg);
+   }
+   h1{
+      font-size: 80px;
+      font-family: 'Rock Salt';
+      color: black;
+   }
+form{
+   font-size: 40px;
+}
