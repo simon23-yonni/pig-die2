@@ -5,6 +5,7 @@
     text-align: normal;
     margin: auto;
     background: url(../images/1.jpg);
+    color:green'
   }
   body {
      font-family: 'Rock Salt', cursive;
@@ -15,13 +16,13 @@
      background-size: contain;
      align-self: center;
      text-align: center;
-
+     color:green;
      background: url(../images/pg3.jpg);
    }
    h1{
       font-size: 80px;
       font-family: 'Rock Salt';
-      color: black;
+      color: green;
    }
 form{
    font-size: 40px;
