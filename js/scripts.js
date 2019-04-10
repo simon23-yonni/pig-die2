@@ -63,7 +63,7 @@ $(document).ready(function() {
     $("#total1-score").text(player1.increasedScore);
     $("#round1-total").empty();
     $("#dice-roll-1").empty();
-    player1.winnerCheck();
+    player1.winCheck();
   });
 
   $("button#player2-hold").click(function(event) {
@@ -71,7 +71,7 @@ $(document).ready(function() {
     $("#total2-score").text(player2.increasedScore);
     $("#round2-total").empty();
     $("#dice-roll-2").empty();
-    player2.winnerCheck();
+    player2.winCheck();
   });
 
 });
