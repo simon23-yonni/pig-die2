@@ -1,6 +1,7 @@
 # Pig-dice
-#### simple dice game , 7/04/2019
-#### By **SIMON YONNI**
+####simple dice game , 7/04/2019
+##AUTHORS
+The projectwas created By **SIMON YONNI**
 ## Description
 This is a web program called pig dice which is a game
 ## Setup/Installation Requirements
@@ -23,4 +24,3 @@ There are no  bugs
 html. css. and javascript.
 ## Support and contact details
 feel free to contact me at simonyonni94@gmail.com
-### License
